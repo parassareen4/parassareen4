@@ -3,7 +3,7 @@
 </div>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/parassareen4)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshit-vig-a56377303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=)
+
 ![border-seperator](assets/borderseparator.gif) 
 
 ## About Paras
