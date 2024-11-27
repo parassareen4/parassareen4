@@ -39,7 +39,7 @@ Just a curious mind who loves building stuff and solving problems
 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=parassareen4&theme=monokai&show_icons=true&hide_border=true&count_private=true" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=parassareen4&theme=gotham&show_icons=true&hide_border=true&count_private=true" style="margin-right:4px;">
 <!-- <img src="https://streak-stats.demolab.com/?user=parassareen4&theme=holi-theme"> -->
 </p>
 
